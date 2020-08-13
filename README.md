@@ -1,10 +1,9 @@
-### Whattup (not too many emojis here)
+### Ay yo
 
-I am a 15 year old with little developing experience ( which I hope to increase ). <br />
-I can write programs in Python and Javascript and other PLs too. <br />
-I am a "gnu/linux" enuthusiast. Currently using arch with xmonad. <br />
-I love open-source. <br />
-Can only edit stuff using vim. <br />
+15 year old. Geek. But not a nerd.  <br />
+Programmin is in my veins. <br />
+Love open-source coz ppl put a lot of cool s\*\*t out there. <br />
+Without vim...my life would be desolate. <br />
 [Twitter](https://twitter.com/tarunvarier)<br />
 [Instagram](https://instagram.com/tarunvarier) (don't use it that much coz i hate it) <br />
 <br />
