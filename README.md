@@ -1,13 +1,19 @@
 <p align="center">
   
-  15 year old, dope kid, not trusted with
+# TF you doin here ?
+##### Im really boring (check my boring stuff below). If you are here becos of some stupid mistake you made...close this tab immediately. If you have heard me from somewhere and you are trying to contact me, my twitter is down below.  
+  <hr />
   
-  <br />
-  <br />
+#### My name is tarun and I program stuff.
+#### I love GNU/Linux.
+#### I hate windows.
+#### I don't play games (cos m trash at dem).
+#### I'm socially awkward.
+#### I love keyboards (the computer ones and the electric pianos). 
+#### I'm extremely stupid. 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-varier&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
-  <br />
   <br />
   
   <a href="https://twitter.com/tarunvarier"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
