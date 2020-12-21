@@ -1,10 +1,10 @@
 # Humanity was a stupid idea
-
-### I am proficient in copying shit from stack overflow
-### I make fake commits in my dotfiles repository to make it look like I got contributions
-### Solving codeforces questions gets me depression
-### const i = you - you\[intelligence\]
-
+<ul>
+ <li>I am proficient in copying shit from stack overflow</li>
+ <li>I make fake commits in my dotfiles repository to make it look like I got contributions</li>
+ <li>Solving codeforces questions gets me depression</li>
+ <li>const i = you - you\[intelligence\]</li>
+</ul>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-varier&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
   <br />
