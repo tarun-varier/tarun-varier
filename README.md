@@ -1,7 +1,7 @@
-<p align="center">
   
 # TF you doin here ?
-#####  If you are here becos of some stupid mistake you made...close this tab immediately. If you have heard me from somewhere and you are trying to contact me, my twitter is down below.  
+#####  If you are here becos of some stupid mistake you made, close this tab immediately. If you are trying to contact me, my twitter is down below.  
+
   <hr />
   
 ### Im really boring (boring stuff's below).
@@ -17,11 +17,8 @@
 
   <br />
   
-  <a href="https://twitter.com/tarunvarier"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://twitter.com/nohomobutsapien"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://github.com/tarun-varier"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white" alt="GitHub"></a>
   <a href="https://tarun-varier.github.io"><img src="https://img.shields.io/badge/-Site-FF2929?style=for-the-badge&logo=Git&logoColor=white"></a>
-  
-</p>
-
 
 P.S. all my cool repos are private
