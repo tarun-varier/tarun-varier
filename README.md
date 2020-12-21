@@ -1,4 +1,4 @@
-## Humanity was a stupid idea
+# Humanity was a stupid idea
 
 ### I am proficient in copying shit from stack overflow
 ### I make fake commits in my dotfiles repository to make it look like I got contributions
