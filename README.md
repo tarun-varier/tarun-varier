@@ -1,12 +1,13 @@
 <p align="center">
   
 # TF you doin here ?
-##### Im really boring (check my boring stuff below). If you are here becos of some stupid mistake you made...close this tab immediately. If you have heard me from somewhere and you are trying to contact me, my twitter is down below.  
+#####  If you are here becos of some stupid mistake you made...close this tab immediately. If you have heard me from somewhere and you are trying to contact me, my twitter is down below.  
   <hr />
   
+### Im really boring (boring stuff's below).
 ### My name is tarun and I program stuff.
 ### I love GNU/Linux.
-### I hate windows.
+### I hate Windows.
 ### I don't play games (cos m trash at dem).
 ### I'm socially awkward.
 ### I love keyboards (the computer ones and the electric pianos). 
@@ -23,4 +24,4 @@
 </p>
 
 
-P.S all my cool repos are private
+P.S. all my cool repos are private
