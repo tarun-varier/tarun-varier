@@ -1,9 +1,9 @@
 # Humanity was a stupid idea
 
 <ul>
- <li>I am proficient in copying shit from stack overflow</li>
+ <li>I am proficient in copying stuff from stack overflow</li>
  <li>I make fake commits in my dotfiles repository to make it look like I got contributions</li>
- <li>Solving codeforces questions gets me depression</li>
+ <li>I don't like codeforces</li>
  <li>const i = you - you[intelligence]</li>
 </ul>
 
