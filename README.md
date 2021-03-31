@@ -9,5 +9,4 @@
 
 <br />
 
-<a href="https://github.com/tarun-varier"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white" alt="GitHub"></a>
 <a href="https://tarun-varier.github.io"><img src="https://img.shields.io/badge/-Site-FF2929?style=for-the-badge&logo=Webpack&logoColor=white"></a>
