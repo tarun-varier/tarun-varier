@@ -1,8 +1,8 @@
 ### Me
 - Crappy coder
 - Aspiring millinaire
-- Linux fan (with elitist attitude)
-- Emacs (spacemacs) user
+- [Linux](https://www.google.com/search?q=linux) fan (with elitist attitude)
+- Emacs ([spacemacs](https://www.spacemacs.org)) user
 
 <br />
 
