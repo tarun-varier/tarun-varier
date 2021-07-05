@@ -2,7 +2,7 @@
 - Crappy coder
 - Aspiring millinaire
 - [Linux](https://www.google.com/search?q=linux) fan (with elitist attitude)
-- Emacs ([spacemacs](https://www.spacemacs.org)) user
+- Emacs ([doom-emacs](https://github.com/hlissner/doom-emacs)) user
 
 <br />
 
