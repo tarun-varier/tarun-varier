@@ -1,8 +1,8 @@
 ### Me
 - Crappy coder
 - Aspiring millinaire
-- [Linux](https://www.google.com/search?q=linux) fan (with elitist attitude)
-- Emacs ([doom-emacs](https://github.com/hlissner/doom-emacs)) user
+- [GNU/Linux](https://www.google.com/search?q=gnu/linux) user (with elitist attitude)
+- Emacs ([doom-emacs](https://github.com/hlissner/doom-emacs)) is my current editor
 
 <br />
 
